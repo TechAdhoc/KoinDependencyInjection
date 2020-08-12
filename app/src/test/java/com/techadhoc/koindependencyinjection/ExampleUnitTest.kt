@@ -1,4 +1,4 @@
-package com.techadhoc.techadhockoin
+package com.techadhoc.koindependencyinjection
 
 import org.junit.Test
 

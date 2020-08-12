@@ -1,4 +1,4 @@
-package com.techadhoc.techadhockoin
+package com.techadhoc.koindependencyinjection
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
